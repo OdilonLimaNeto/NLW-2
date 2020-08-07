@@ -1,9 +1,9 @@
 
 
 # Back-end Proffy
+ Estudos relacionados ao back-end <br/>
+<img alt="Github License" src="https://img.shields.io/github/license/OdilonLimaNeto/NLW-2" />  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/OdilonLimaNeto/NLW-2" />
 
-> Estudos relacionados ao back-end
-<img alt="Github License" src="https://img.shields.io/github/license/OdilonLimaNeto/NLW-2" />
 
 ## About
 
