@@ -3,17 +3,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+
   "devDependencies": {
     "ts-node-dev": "^1.0.0-pre.56",
     "typescript": "^3.9.7"
   },
-  "author": {
+    "author": {
     "email": "odilongeronimoo@gmail.com",
     "name": "Odilon Lima",
     "url": "https://www.linkedin.com/in/odilonlimaneto/",
 
   },
-  "repository": {
+
+    "repository": {
     "type": "git",
     "url": "https://github.com/OdilonLimaNeto/NLW-2.git"
   },

@@ -1,8 +1,9 @@
 Arguments: 
-  /home/odilon/.nvm/versions/node/v12.18.3/bin/node /home/odilon/.yarn/bin/yarn.js global bin
+  /home/odilon/.nvm/versions/node/v12.18.3/bin/node /home/odilon/.yarn/bin/yarn.js create md
 
 PATH: 
-  /home/odilon/.yarn/bin:/home/odilon/.config/yarn/global/node_modules/.bin:/home/odilon/.nvm/versions/node/v12.18.3/bin:/home/odilon/.zinit/polaris/sbin:/home/odilon/.zinit/polaris/bin:/home/odilon/.yarn/bin:/home/odilon/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:
+  /home/odilon/.yarn/bin:/home/odilon/.config/yarn/global/node_modules/.bin:/home/odilon/.yarn/bin:/home/odilon/.config/yarn/global/node_modules/.bin:/home/odilon/.yarn/bin:/home/odilon/.config/yarn/global/node_modules/.bin:/home/odilon/.nvm/versions/node/v12.18.3/bin:/home/odilon/.zinit/polaris/sbin:/home/odilon/.zinit/polaris/bin:/home/odilon/.yarn/bin:/home/odilon/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin: : info If you think this is a bug, please open a bug report with the information provided in "/media/odilon/DADOS/REPOSITORIES/NLW-2/server/yarn-error.log".
+  info Visit https://yarnpkg.com/en/docs/cli/global for documentation about this command.
 
 Yarn version: 
   1.22.4
@@ -14,7 +15,7 @@ Platform:
   linux x64
 
 Trace: 
-  SyntaxError: /media/odilon/DADOS/REPOSITORIES/NLW-2/server/package.json: Unexpected token } in JSON at position 321
+  SyntaxError: /media/odilon/DADOS/REPOSITORIES/NLW-2/server/package.json: Unexpected token } in JSON at position 324
       at JSON.parse (<anonymous>)
       at /home/odilon/.yarn/lib/cli.js:1625:59
       at Generator.next (<anonymous>)
@@ -27,24 +28,26 @@ npm manifest:
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
+  
     "devDependencies": {
       "ts-node-dev": "^1.0.0-pre.56",
       "typescript": "^3.9.7"
     },
-    "author": {
+      "author": {
       "email": "odilongeronimoo@gmail.com",
       "name": "Odilon Lima",
       "url": "https://www.linkedin.com/in/odilonlimaneto/",
   
     },
-    "repository": {
+  
+      "repository": {
       "type": "git",
       "url": "https://github.com/OdilonLimaNeto/NLW-2.git"
     },
     "create_md": {
       "github_username": "OdilonLimaNeto",
       "github_repo": "NLW-2"
-    }
+    },
   }
 
 yarn manifest: 
