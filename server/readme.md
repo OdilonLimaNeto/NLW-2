@@ -1,17 +1,12 @@
 
-  ![banner](connect)
 
 # Back-end Proffy
 
-> EStudos relacionados ao back-end
-
-![GitHub last commit](https://img.shields.io/github/last-commit/OdilonLimaNeto/Next Level Week #2)
-![license](https://img.shields.io/github/license/OdilonLimaNeto/Next Level Week #2)
-![GitHub repo size](https://img.shields.io/github/repo-size/OdilonLimaNeto/Next Level Week #2)
+> Estudos relacionados ao back-end
+<img alt="Github License" src="https://img.shields.io/github/license/OdilonLimaNeto/NLW-2" />
 
 ## About
 
-  [🏠 Homepage](Odilon)
 Projeto NLW #2
 
 ## Prerequisites
@@ -26,9 +21,7 @@ Projeto NLW #2
 
 * GitHub: [@OdilonLimaNeto](https://github.com/OdilonLimaNeto)
 
-
 * LinkedIn: [@https://www.linkedin.com/in/odilonlimaneto/](https://linkedin.com/in/https://www.linkedin.com/in/odilonlimaneto/)
-
 
 
 ## 📝 License
