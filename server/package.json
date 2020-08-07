@@ -6,5 +6,19 @@
   "devDependencies": {
     "ts-node-dev": "^1.0.0-pre.56",
     "typescript": "^3.9.7"
+  },
+  "author": {
+    "email": "odilongeronimoo@gmail.com",
+    "name": "Odilon Lima",
+    "url": "https://www.linkedin.com/in/odilonlimaneto/",
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OdilonLimaNeto/NLW-2.git"
+  },
+  "create_md": {
+    "github_username": "OdilonLimaNeto",
+    "github_repo": "NLW-2"
   }
 }
