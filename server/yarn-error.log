@@ -47,7 +47,7 @@ npm manifest:
     "create_md": {
       "github_username": "OdilonLimaNeto",
       "github_repo": "NLW-2"
-    },
+    }
   }
 
 yarn manifest: 
