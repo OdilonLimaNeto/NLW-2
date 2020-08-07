@@ -14,9 +14,10 @@ Projeto NLW #2
 - node 12.18.3
 - npm 6.14.6
 
-## Author
+## Author 
 
-**Odilon Lima** odilongeronimoo@gmail.com
+**Odilon Lima**
+
 * Website: https://www.linkedin.com/in/odilonlimaneto/
 
 * GitHub: [@OdilonLimaNeto](https://github.com/OdilonLimaNeto)
